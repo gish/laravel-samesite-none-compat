@@ -33,7 +33,7 @@
     },
     "require": {
         "php": ">=7.2",
-        "illuminate/http": "^5.8|^6"
+        "illuminate/http": "^5.8|^6|^7"
     },
     "require-dev": {
         "doctrine/coding-standard": "^6.0",
